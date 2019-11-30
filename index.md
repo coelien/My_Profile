@@ -7,7 +7,8 @@
 ### my favorite food
 * spegette
 * salad
-* icecream :+1:
+* icecream
+<br>
 ### top 10 places i wanna go
 1. fuji mountain
 2. the GreatWall
