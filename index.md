@@ -18,4 +18,4 @@ visit me at [my GitHub profile](https://github.com/coelien)
    1. in Spring
    2. in Aultumn
 
-I am good at writing and communicating in English, I won prizes in some competitions. Besides, I am skilled at Java and SQL, and i completed quite a lot programming projects using them.
+I am good at **writing and communicating** in English, I won prizes in some competitions. Besides, I am *skilled* at **Java** and **SQL**, and i *completed* quite a lot programming projects using them. 
